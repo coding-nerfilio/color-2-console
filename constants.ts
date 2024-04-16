@@ -1,0 +1,19 @@
+export const COLOR_RESET = "\x1b[0m";
+export const T_COLOR_BLUE = "\x1b[34m";
+export const T_COLOR_RED = "\x1b[31m";
+export const T_COLOR_GREEN = "\x1b[32m";
+export const T_COLOR_YELLOW = "\x1b[33m";
+export const T_COLOR_MAGENTA = "\x1b[35m";
+export const T_COLOR_CYAN = "\x1b[36m";
+export const T_COLOR_WHITE = "\x1b[37m";
+
+export const BG_COLOR_BLACK = "\x1b[30m";
+export const BG_COLOR_RED = "\x1b[31m";
+export const BG_COLOR_GREEN = "\x1b[32m";
+export const BG_COLOR_YELLOW = "\x1b[33m";
+export const BG_COLOR_BLUE = "\x1b[34m";
+export const BG_COLOR_MAGENTA = "\x1b[35m";
+export const BG_COLOR_CYAN = "\x1b[36m";
+export const BG_COLOR_WHITE = "\x1b[37m";
+export const BG_COLOR_GRAY = "\x1b[90m";
+export const BG_COLOR_CRIMSON = "\x1b[38m";
