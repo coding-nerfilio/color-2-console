@@ -7,7 +7,7 @@
   "scripts": {
     "watch": "tsc -w",
     "build": "tsc",
-    "compress": "uglifyjs-folder js -eo dist"
+    "compress": "npx uglifyjs-folder -o ./dist -e -x .js ./dist"
   },
   "repository": "github:coding-nerfilio/color-2-console",
   "author": "coding-nerfilio",
