@@ -1,7 +1,7 @@
 {
   "name": "color-2-console",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Color2Console is a lightweight TypeScript/JavaScript library that enables you to add color to console output easily.",
   "main": "./dist/index.js",
   "types": ".dist/index.d.ts",
   "scripts": {
