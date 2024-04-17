@@ -6,13 +6,19 @@
   "types": ".dist/index.d.ts",
   "scripts": {
     "watch": "tsc -w",
-    "build": "tsc"
+    "build": "tsc",
+    "compress": "uglifyjs-folder js -eo dist"
   },
-  "repository":"github:coding-nerfilio/color-2-console",
+  "repository": "github:coding-nerfilio/color-2-console",
   "author": "coding-nerfilio",
   "license": "ISC",
-  "keywords": ["nodejs","console","color"],
+  "keywords": [
+    "nodejs",
+    "console",
+    "color"
+  ],
   "devDependencies": {
-    "typescript": "^4.6.2"
+    "typescript": "^4.6.2",
+    "uglifyjs-folder": "^3.3.0"
   }
 }
