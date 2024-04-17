@@ -1,6 +1,6 @@
 # Color2Console
 
-Color2Console is a lightweight (2.2kb) TypeScript/JavaScript library that enables you to add color to console output easily. It provides methods to add text in different colors to a buffer and then write the buffered text to the console.
+Color2Console is a lightweight (7.8kb) TypeScript/JavaScript library that enables you to add color to console output easily. It provides methods to add text in different colors to a buffer and then write the buffered text to the console.
 
 ## Installation
 
